@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://proseandcons.micro.blog/2026/01/08/content-design-for-ai-agents.html",
+				"title": "Content design for AI agents",
+				"content_html": "<p>Content designers are better positioned for AI agent design than most people realize.</p>\n<p>The real challenge with agents isn&rsquo;t crafting perfect prompts. It’s context management.</p>\n<p>It turns out the skills we’ve been building for years — structure, clarity, and information architecture — are exactly what this new infrastructure needs.</p>\n<p>Before the holidays, I joined Patrick Stafford on Writers of Silicon Valley to break this down. We looked past the chatbot interface and into the governance that makes agents actually work.</p>\n<p>We also got into what I learned open-sourcing an agent skill that critiques UX writing in Figma files, and why the strategic, judgmental work content designers do isn&rsquo;t going anywhere.</p>\n<p>🎧 <a href=\"https://www.writersofsiliconvalley.com/episodes/content-design-ai-agents\">www.writersofsiliconvalley.com/episodes/&hellip;</a></p>\n",
+				"content_text": "Content designers are better positioned for AI agent design than most people realize.\n\nThe real challenge with agents isn't crafting perfect prompts. It’s context management.\n\nIt turns out the skills we’ve been building for years — structure, clarity, and information architecture — are exactly what this new infrastructure needs.\n\nBefore the holidays, I joined Patrick Stafford on Writers of Silicon Valley to break this down. We looked past the chatbot interface and into the governance that makes agents actually work.\n\nWe also got into what I learned open-sourcing an agent skill that critiques UX writing in Figma files, and why the strategic, judgmental work content designers do isn't going anywhere.\n\n🎧 [www.writersofsiliconvalley.com/episodes/...](https://www.writersofsiliconvalley.com/episodes/content-design-ai-agents) \n",
+				"date_published": "2026-01-08T08:55:27-05:00",
+				"url": "https://blog.gr33r.com/2026/01/08/content-design-for-ai-agents.html",
+				"tags": ["Design","AI"]
+			},
+			{
 				"id": "http://proseandcons.micro.blog/2025/12/14/virginia-woolf-on-writing-in.html",
 				"title": "Virginia Woolf on writing in Orlando",
 				"content_html": "<p>“Anyone moderately familiar with the rigours of composition will not need to be told the story in detail; how he wrote and it seemed good; read and it seemed vile; corrected and tore up; cut out; put in; was in ecstasy; in despair; had his good nights and bad mornings; snatched at ideas and lost them; saw his book plain before him and it vanished; acted people’s parts as he ate; mouthed them as he walked; now cried; now laughed; vacillated between this style and that; now preferred the heroic and pompous; next the plain and simple; now the vales of Tempe; then the fields of Kent or Cornwall; and could not decide whether he was the divinest genius or the greatest fool in the world.”</p>\n<!-- raw HTML omitted -->\n",
